@@ -3,9 +3,8 @@
 <!--
 **uddipan32/uddipan32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![alt text](https://raw.githubusercontent.com/smv1999/smv1999/master/banner_image.jpg)
  
- <img align='right' src="https://raw.githubusercontent.com/smv1999/smv1999/master/profile_image1.jpg" width="230" />
+ <img align='right' src="https://github.com/uddipan32/uddipan32/blob/master/logo/DP.jpg" width="230" />
 
 
 
@@ -25,7 +24,7 @@ I am a student of North Eastern Hill University (NEHU) currently pursuing a Bach
 
 <a href="https://www.linkedin.com/in/uddipanbhattacharyya/"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/linkedin.png" width="40" /></a>
 <a href="mailto:uddipan.bhatta7@gmail.com"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/google-plus.png" width="40" /></a>
-<a href="https://www.hackerrank.com/uddipan_bhatta7"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/Hackerrank.png" width="40" /></a>
+<a href="https://www.hackerrank.com/uddipan_bhatta7"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/HackerRank.png" width="40" /></a>
 <a href="https://uddipan_bhatta7.artstation.com"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/Artstation.png" width="40" /></a>
 <a href="https://https://www.instagram.com/uddipanbhatta"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/instagram.png" width="40" /></a>
 <a href="https://facebook.com/uddipan.bhatta"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/Facebook.png" width="40" /></a>

@@ -18,12 +18,15 @@ I am a student of North Eastern Hill University (NEHU) currently pursuing a Bach
 
 💻 Skilled in Python(Programming Language), C/C++, PHP, Javascript, C# .\
 🔭 I’m currently working on a project using javascript three.js. \
+📱 Hobby - 3d Modelling using Blender 3d. \
 
 
-[![Vaidhyanathan's github stats](https://github-readme-stats.vercel.app/api?username=uddipan32&show_icons=true&theme=tokyonight)](https://github.com/uddipan32/github-readme-stats)
+[![Uddipan's github stats](https://github-readme-stats.vercel.app/api?username=uddipan32&show_icons=true&theme=tokyonight)](https://github.com/uddipan32/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/uddipanbhattacharyya/"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/uddipan32"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/github-logo.png" width="40" /></a>
 <a href="mailto:uddipan.bhatta7@gmail.com"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/google-plus.png" width="40" /></a>
+<a href="https://www.hackerrank.com/uddipan_bhatta7"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/google-plus.png" width="40" /></a>
+<a href="https://uddipan_bhatta7.artstation.com"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/google-plus.png" width="40" /></a>
 <a href="https://https://www.instagram.com/uddipanbhatta"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/instagram.png" width="40" /></a>
 <a href="https://facebook.com/uddipan.bhatta"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/instagram.png" width="40" /></a>

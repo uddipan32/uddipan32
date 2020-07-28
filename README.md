@@ -26,5 +26,5 @@ I am a student of North Eastern Hill University (NEHU) currently pursuing a Bach
 <a href="mailto:uddipan.bhatta7@gmail.com"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/google-plus.png" width="40" /></a>
 <a href="https://www.hackerrank.com/uddipan_bhatta7"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/HackerRank.png" width="40" /></a>
 <a href="https://uddipan_bhatta7.artstation.com"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/Artstation.png" width="40" /></a>
-<a href="https://https://www.instagram.com/uddipanbhatta"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/instagram.png" width="40" /></a>
+<a href="https://https://www.instagram.com/uddipanbhatta"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/Instagram.png" width="40" /></a>
 <a href="https://facebook.com/uddipan.bhatta"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/Facebook.png" width="40" /></a>

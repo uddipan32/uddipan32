@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Uddipan Bhattacharyya </h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Uddipan Bhattacharyya </h1>
 <!--
 **uddipan32/uddipan32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -7,7 +6,7 @@
  <!-- <img align='right' src="https://github.com/uddipan32/uddipan32/blob/master/logo/DP.jpg" width="230" /> -->
 
 
-<h3 align="center">CTO at Trusnetix Technologies | Full Stack Developer | 3D Artist </h3>
+<h3>CTO at Trusnetix Technologies | Full Stack Developer | 3D Artist </h3>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uddipan32)](https://github.com/uddipan32/github-readme-stats)

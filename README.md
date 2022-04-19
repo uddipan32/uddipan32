@@ -9,13 +9,13 @@
 
 
 
-I am a student of North Eastern Hill University (NEHU) currently pursuing a Bachelor's Degree in Information Technology.
+CTO at Trusnetix Technologies
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uddipan32)](https://github.com/uddipan32/github-readme-stats)
 
 
 
-💻 Skilled in Python(Programming Language), C/C++, PHP, Javascript, C# .\
+💻 Skilled in Python(Programming Language), JS, Dart, C/C++, PHP, Javascript, C# .\
 🔭 I’m currently working on a project using javascript three.js. \
 📱 Hobby - 3d Modelling using Blender 3d. \
 

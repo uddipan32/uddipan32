@@ -28,3 +28,9 @@ CTO at Trusnetix Technologies
 <a href="https://uddipan_bhatta7.artstation.com"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/Artstation.png" width="40" /></a>
 <a href="https://https://www.instagram.com/uddipanbhatta"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/Instagram.png" width="40" /></a>
 <a href="https://facebook.com/uddipan.bhatta"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/Facebook.png" width="40" /></a>
+
+
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/uddipan32"><img alt="Uddipan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=uddipan32&custom_title=uddipan32's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>

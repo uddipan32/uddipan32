@@ -18,7 +18,7 @@
 📱 Hobby - 3d Modelling using Blender 3d. \
 
 
-[![Uddipan's github stats]<!--(https://github-readme-stats.vercel.app/api?username=uddipan32&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/uddipan32/github-readme-stats)-->
+<!--[![Uddipan's github stats](https://github-readme-stats.vercel.app/api?username=uddipan32&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/uddipan32/github-readme-stats)-->
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=uddipan32&show_icons=true&theme=gruvbox&hide_border=true" /><img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=uddipan32&theme=gruvbox&hide_border=true" />
 
 <a href="https://www.linkedin.com/in/uddipanbhattacharyya/"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/linkedin.png" width="40" /></a>

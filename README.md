@@ -9,7 +9,7 @@
 <h3>CTO at Trusnetix Technologies | Full Stack Developer | 3D Artist </h3>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uddipan32&count_private=true)](https://github.com/uddipan32/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uddipan32&count_private=true&theme=gruvbox&hide_border=true)](https://github.com/uddipan32/github-readme-stats)
 
 
 

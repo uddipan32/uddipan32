@@ -36,8 +36,8 @@
 <!--[![Uddipan's github stats](https://github-readme-stats.vercel.app/api?username=uddipan32&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/uddipan32/github-readme-stats)-->
 <br/><summary><b>⚡ GitHub Statistics</b></summary>
   <br/>
-[![Total Commits](https://github-readme-stats.vercel.app/api?username=uddipan32&count_private=true&theme=gruvbox&hide_border=true&show_icons=true&hide=stars,prs,issues,contribs)]
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=uddipan32&show_icons=true&theme=gruvbox&hide_border=true" />
+![Total Commits](https://github-readme-stats.vercel.app/api?username=uddipan32&count_private=true&theme=gruvbox&hide_border=true&show_icons=true&hide=stars,prs,issues,contribs)
+<!-- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=uddipan32&show_icons=true&theme=gruvbox&hide_border=true" /> -->
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=uddipan32&theme=gruvbox&hide_border=true" />
 
 <br/><summary><b>Contact:</b></summary>

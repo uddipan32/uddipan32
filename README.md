@@ -57,3 +57,5 @@
    <a href="https://github.com/uddipan32"><img alt="Uddipan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=uddipan32&custom_title=uddipan32&include_all_commits=true's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   -->
+
+ <summary> <b> Key Projects: </b></summary>

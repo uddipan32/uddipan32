@@ -27,6 +27,8 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" **alt="Blender" width="80" height="80"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="80" height="80"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" **alt="MySQL" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" **alt="Unity" width="80" height="80"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" **alt="Godot" width="80" height="80"/>
 </div>
 <!-- 💻 Skilled in Python(Programming Language), JS, Dart, C/C++, PHP, Javascript, C# .\
 🔭 I’m currently working on a project using javascript three.js. \

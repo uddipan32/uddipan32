@@ -27,7 +27,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" **alt="Blender" width="80" height="80"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="80" height="80"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" **alt="MySQL" width="80" height="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" **alt="Unity" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" **alt="Unity" width="80" height="80"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" **alt="Godot" width="80" height="80"/>
 </div>
 <!-- 💻 Skilled in Python(Programming Language), JS, Dart, C/C++, PHP, Javascript, C# .\
@@ -51,8 +51,9 @@
 <a href="https://https://www.instagram.com/uddipanbhatta"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/Instagram.png" width="40" /></a>
 <a href="https://facebook.com/uddipan.bhatta"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/Facebook.png" width="40" /></a>
 
-
+<!--
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/uddipan32"><img alt="Uddipan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=uddipan32&custom_title=uddipan32&include_all_commits=true's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+  -->

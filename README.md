@@ -51,6 +51,8 @@
 <a href="https://https://www.instagram.com/uddipanbhatta"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/Instagram.png" width="40" /></a>
 <a href="https://facebook.com/uddipan.bhatta"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/Facebook.png" width="40" /></a>
 
+
+
 <!--
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
@@ -59,3 +61,11 @@
   -->
 
  <summary> <b> Key Projects: </b></summary>
+<br/>
+  <ul>
+    <li>
+      <b>Admin Panel:</b> A dynamic dashboard displaying statistics for 1 million active users, providing real-time insights and analytics.
+      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project1_admin.png" width="40" />
+    </li>
+  </ul>
+

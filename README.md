@@ -65,7 +65,7 @@
   <ul>
     <li>
       <b>Admin Panel:</b> A dynamic dashboard displaying statistics for 1 million active users, providing real-time insights and analytics.
-      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project1_admin.png" width="40" />
+      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project1_admin.png" width="50%" />
     </li>
   </ul>
 

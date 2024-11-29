@@ -68,9 +68,9 @@
     <li>
       <b>Admin Panel:</b> A dynamic dashboard displaying statistics for 1 million active users, providing real-time insights and analytics.
     </li>
-      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project1_teacher_app.gif" width="33%" />
-      <li>
+      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project1_teacher_app1.gif" width="33%" />
+      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project1_teacher_app2.gif" width="33%" />
+    <li>
       <b>Teacher App:</b> Simple and easy to use app for teachers to manage their students and classes.
     </li>
-
   </ul>

@@ -5,15 +5,15 @@
  
  <!-- <img align='right' src="https://github.com/uddipan32/uddipan32/blob/master/logo/DP.jpg" width="230" /> -->
 
-
 <h3>CTO at Trusnetix Technologies | Full Stack Developer | 3D Artist </h3>
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uddipan32&count_private=true&theme=gruvbox&hide_border=true&langs_count=8)](https://github.com/uddipan32/github-readme-stats)
 <img align="right" alt="GIF" src="https://github.com/uddipan32/uddipan32/blob/master/code.gif?raw=true" width="300px" height="250px" />
+
 ##
+
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" **alt="NodeJS" width="80" height="80"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" **alt="Express" width="80" height="80"/>
@@ -36,22 +36,22 @@
 -->
 
 <!--[![Uddipan's github stats](https://github-readme-stats.vercel.app/api?username=uddipan32&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/uddipan32/github-readme-stats)-->
+
 <br/><summary><b>⚡ GitHub Statistics</b></summary>
-  <br/>
+<br/>
 ![Total Commits](https://github-readme-stats.vercel.app/api?username=uddipan32&count_private=true&theme=gruvbox&hide_border=true&show_icons=true&hide=stars,prs,issues,contribs)
+
 <!-- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=uddipan32&show_icons=true&theme=gruvbox&hide_border=true" /> -->
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=uddipan32&theme=gruvbox&hide_border=true" />
 
 <br/><summary><b>Contact:</b></summary>
-  <br/>
+<br/>
 <a href="https://www.linkedin.com/in/uddipanbhattacharyya/"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/linkedin.png" width="40" /></a>
 <a href="mailto:uddipan.bhatta7@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icons-png-vector-icons-and-png-backgrounds-18.png" width="40" /></a>
 <a href="https://www.hackerrank.com/uddipan_bhatta7"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/HackerRank.png" width="40" /></a>
 <a href="https://uddipan_bhatta7.artstation.com"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/Artstation.png" width="40" /></a>
 <a href="https://https://www.instagram.com/uddipanbhatta"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/Instagram.png" width="40" /></a>
 <a href="https://facebook.com/uddipan.bhatta"><img src="https://github.com/uddipan32/uddipan32/blob/master/logo/Facebook.png" width="40" /></a>
-
-
 
 <!--
 <summary><b>⚡ Recent GitHub Activity</b></summary>
@@ -65,8 +65,8 @@
   <ul>
       <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project1_admin.png" width="100%" />
       <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project1_admin2.png" width="100%" />
+      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project1_teacher_app.gif" width="100%" />
     <li>
       <b>Admin Panel:</b> A dynamic dashboard displaying statistics for 1 million active users, providing real-time insights and analytics.
     </li>
   </ul>
-

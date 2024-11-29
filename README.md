@@ -65,7 +65,7 @@
   <ul>
       <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project1_admin.png" width="100%" />
       <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project1_admin2.png" width="100%" />
-      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project1_teacher_app.gif" width="100%" />
+      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project1_teacher_app.gif" width="33%" />
     <li>
       <b>Admin Panel:</b> A dynamic dashboard displaying statistics for 1 million active users, providing real-time insights and analytics.
     </li>

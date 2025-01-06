@@ -74,6 +74,14 @@
       <b>Teacher App:</b> Simple and easy to use app for teachers to manage their students and classes.
     </li>
   </ul>
+  <br/>
+  <ul>
+      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project3_video.gif" width="100%" />
+    <li>
+      <b>Virtual Reality (Meta Quest):</b> A 3D interactive experience for users to explore and interact with a virtual environment.
+    </li>
+  </ul>
+  <br/>
    <ul>
       <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project2_admin_screen_record.gif" width="100%" />
     <li>

@@ -74,3 +74,22 @@
       <b>Teacher App:</b> Simple and easy to use app for teachers to manage their students and classes.
     </li>
   </ul>
+   <ul>
+      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project2_admin_screen_record.gif" width="100%" />
+    <li>
+      <b>Admin Panel:</b> A dynamic dashboard displaying statistics with comprehensive course management features:
+      - Course content creation and management
+      - Student enrollment and progress tracking
+      - Performance analytics and reporting
+      - Resource allocation and scheduling
+    </li>
+      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project2_app_screen_record.gif" width="33%" />
+    <li>
+      <b>Student App:</b> A feature-rich learning platform that empowers students with:
+      - Interactive course access and multimedia learning materials
+      - Real-time progress tracking and performance analytics
+      - Built-in social networking for peer collaboration
+      - Achievement sharing and student community engagement
+      - Personalized learning paths and content recommendations
+    </li>
+  </ul>

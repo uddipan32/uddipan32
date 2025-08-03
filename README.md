@@ -101,3 +101,5 @@
       - Personalized learning paths and content recommendations
     </li>
   </ul>
+
+  ![Visitor Count](https://profile-counter.glitch.me/uddipan32/count.svg)

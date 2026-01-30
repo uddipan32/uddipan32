@@ -7,7 +7,7 @@
 
 <h3>CTO at Trusnetix Technologies | Full Stack Developer | 3D Artist </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uddipan32&count_private=true&theme=gruvbox&hide_border=true&langs_count=8)](https://github.com/uddipan32/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uddipan32&count_private=true&theme=gruvbox&hide_border=true&langs_count=8)](https://github.com/uddipan32/github-readme-stats) -->
 <img align="right" alt="GIF" src="https://github.com/uddipan32/uddipan32/blob/master/code.gif?raw=true" width="300px" height="250px" />
 
 ##

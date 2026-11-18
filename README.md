@@ -5,11 +5,10 @@
  
  <!-- <img align='right' src="https://github.com/uddipan32/uddipan32/blob/master/logo/DP.jpg" width="230" /> -->
 
-<h3>CTO at Trusnetix Technologies | 3D Artist </h3>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uddipan32&count_private=true&theme=gruvbox&hide_border=true&langs_count=8)](https://github.com/uddipan32/github-readme-stats) -->
 <img align="right" alt="GIF" src="https://github.com/uddipan32/uddipan32/blob/master/code.gif?raw=true" width="300px" height="250px" />
 
+<h3>CTO at Trusnetix Technologies | 3D Artist </h3>
 
 
 I own the full lifecycle of cloud platforms serving **2M+ users**: architecture, deployment, CI/CD, monitoring, database operations, and incident response. I joined Trusnetix as its first engineering hire and grew from Software Engineering Intern to CTO.

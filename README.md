@@ -12,7 +12,7 @@
 
 <h1>Hi, I'm Uddipan Bhattacharyya 👋</h1>
 
-<h3>CTO and DevOps / Infrastructure Engineer at Trusnetix Technologies</h3>
+<h3>CTO at Trusnetix Technologies</h3>
 
 I own the full lifecycle of cloud platforms serving **2M+ users**: architecture, deployment, CI/CD, monitoring, database operations, and incident response. I joined Trusnetix as its first engineering hire and grew from Software Engineering Intern to CTO.
 
@@ -29,7 +29,7 @@ I own the full lifecycle of cloud platforms serving **2M+ users**: architecture,
 - **AWS bill cut by 60%** for a state government exam platform, with the same number of users
 - **80% faster API response time** after re-architecting services and optimizing data access
 - **15+ projects delivered** on time while leading Scrum teams
-- **MongoDB Certified Database Administrator** (2026), running replica sets, backup and recovery, disaster recovery, and upgrades in production
+- **MongoDB Certified Database Administrator**, running replica sets, backup and recovery, disaster recovery, and upgrades in production
 
 
 <br/><summary><b>⚡ GitHub Statistics</b></summary>
@@ -121,9 +121,14 @@ An office management platform for CA and accounting firms, with a dashboard to t
 
 </details>
 
-## Beyond DevOps
+## Beyond IT
+### My Animation Career
 
 I also build games and 3D experiences with Unity, Godot, Three.js, and Blender, and share 3D work on [ArtStation](https://uddipan_bhatta7.artstation.com).
+
+My creative work includes **3D modelling for more than 30 music videos**, including **3 music videos for Bollywood singer Papon**, a **VFX for an Assamese web series**, and **VFX for 2 feature films and 2 web series**.
+
+You can explore more of my creative work on **[Youtube Playlist](https://youtube.com/playlist?list=PLVS5-BWu8Vm8FVbmNU9RRo0zTAC9m7HqY)**,  **[IMDb](https://www.imdb.com/name/nm16424935/)**
 
 ## Certifications
 
@@ -162,47 +167,5 @@ I also build games and 3D experiences with Unity, Godot, Three.js, and Blender, 
    <a href="https://github.com/uddipan32"><img alt="Uddipan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=uddipan32&custom_title=uddipan32&include_all_commits=true's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   -->
-
- <summary> <b> Key Projects: </b></summary>
-<br/>
-  <ul>
-      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project1_admin.png" width="100%" />
-      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project1_admin2.png" width="100%" />
-    <li>
-      <b>Admin Panel:</b> A dynamic dashboard displaying statistics for 1 million active users, providing real-time insights and analytics.
-    </li>
-      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project1_teacher_app1.gif" width="33%" />
-      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project1_teacher_app2.gif" width="33%" />
-    <li>
-      <b>Teacher App:</b> Simple and easy to use app for teachers to manage their students and classes.
-    </li>
-  </ul>
-  <br/>
-  <ul>
-      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project3_video.gif" width="100%" />
-    <li>
-      <b>Virtual Reality (Meta Quest):</b> A 3D interactive experience for users to explore and interact with a virtual environment.
-    </li>
-  </ul>
-  <br/>
-   <ul>
-      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project2_admin_screen_record.gif" width="100%" />
-    <li>
-      <b>Admin Panel:</b> A dynamic dashboard displaying statistics with comprehensive course management features:
-      - Course content creation and management
-      - Student enrollment and progress tracking
-      - Performance analytics and reporting
-      - Resource allocation and scheduling
-    </li>
-      <img src="https://github.com/uddipan32/uddipan32/blob/master/images/project2_app_screen_record.gif" width="33%" />
-    <li>
-      <b>Student App:</b> A feature-rich learning platform that empowers students with:
-      - Interactive course access and multimedia learning materials
-      - Real-time progress tracking and performance analytics
-      - Built-in social networking for peer collaboration
-      - Achievement sharing and student community engagement
-      - Personalized learning paths and content recommendations
-    </li>
-  </ul>
   
 ![](https://komarev.com/ghpvc/?username=uddipan32)

@@ -126,7 +126,7 @@ An office management platform for CA and accounting firms, with a dashboard to t
 
 I also build games and 3D experiences with Unity, Godot, Three.js, and Blender, and share 3D work on [ArtStation](https://uddipan_bhatta7.artstation.com).
 
-My creative work includes **3D modelling for more than 30 music videos**, including **3 music videos for Bollywood singer Papon**, a **VFX for an Assamese web series**, and **VFX for 2 feature films and 2 web series**.
+My creative work includes **3D modelling for more than 30 music videos**, including **3 music videos for Bollywood singer Papon**, **VFX for 2 Assamese web series**, and **VFX for 2 feature films and 2 web series**.
 
 You can explore more of my creative work on **[Youtube Playlist](https://youtube.com/playlist?list=PLVS5-BWu8Vm8FVbmNU9RRo0zTAC9m7HqY)**,  **[IMDb](https://www.imdb.com/name/nm16424935/)**
 
